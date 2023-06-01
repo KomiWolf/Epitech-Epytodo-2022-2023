@@ -3,4 +3,4 @@ Epytodo est le premier projet web d'Epitech.
 
 Dans ce projet, on doit réaliser un todo liste en web.
 
-Ce projet à été réalisé avec [https://github.com/OrionPX4k].
+Ce projet à été réalisé avec [Thomas Lebouc](https://github.com/OrionPX4k).
