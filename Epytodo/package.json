@@ -1,0 +1,32 @@
+{
+  "name": "package.json",
+  "version": "9.9.9",
+  "description": "Satan",
+  "main": "node ./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2027/B-WEB-200-PAR-2-1-epytodo-eric1.xu.git"
+  },
+  "keywords": [
+    "Satan"
+  ],
+  "author": "Satan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2027/B-WEB-200-PAR-2-1-epytodo-eric1.xu/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2027/B-WEB-200-PAR-2-1-epytodo-eric1.xu#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.0"
+  },
+  "devDependencies": {}
+}
